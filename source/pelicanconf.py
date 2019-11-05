@@ -6,7 +6,7 @@ AUTHOR = 'Alejandro'
 SITENAME = 'Thoughts and Code'
 SITEURL = ''
 
-PATH = 'content'
+PATH = 'source/content'
 
 TIMEZONE = 'Europe/Madrid'
 
